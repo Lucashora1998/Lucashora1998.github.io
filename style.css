@@ -1,0 +1,53 @@
+.b{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-top: 30px;
+    
+    
+}
+.c{
+    background-color: rgb(73, 160, 211);
+    border: 15px;
+    color: azure;
+    padding: 50px;
+    border-radius: 50px;
+
+}
+.produto{
+background-color: rgb(67, 30, 230);
+border: 15px;
+color: azure;
+padding: 50px;
+border-radius: 50px;
+
+}
+.v{
+    background-color: blueviolet;
+    border: 15px;
+    color: azure;
+    padding: 50px;
+    border-radius: 50px;
+}
+.vendas{
+background-color: black;
+display: flex;
+justify-content: center;
+color: azure;
+margin: 50px;
+width: 50%;
+height: 50%;
+padding: 100px;
+}
+.imagem{
+    background-color: aquamarine;
+    padding: 100px;
+    justify-content: center;
+    display: flex;
+    width: 50px;
+    width: 50px;
+}
+.q{
+    display: flex;
+}
